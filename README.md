@@ -1,2 +1,1 @@
-# weixiaoxuan.github.io
-blog
+# 魏晓萱的独立博客
